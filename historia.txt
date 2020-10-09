@@ -1,6 +1,5 @@
-esta es la historia de marcos gomez
+Esta es la historia de Marcos Gomez
 
-marcos gomez tiene 23 alos y nacio en argentina
-y esta aprendiendo a usar git y github 
+Marcos Gomez tiene 23 años y nacio en argentina
 
-hoy hablemos de su historia..
+Y esta es su historia..
