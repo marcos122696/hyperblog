@@ -4,4 +4,6 @@ marcos gomez tiene 23 años y nacio en argentina.
 
 master 1
 
+master 2
+
 Mañana nos enfocaremos en su vida laboral
